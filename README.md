@@ -10,7 +10,7 @@ Built using:
 - Front-end library: React
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
--
+
 
 Deployed Link:
 https://meek-mermaid-723af2.netlify.app/
